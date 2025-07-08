@@ -15,4 +15,4 @@
 
 # ignore venv
 venv/
-
+.history
